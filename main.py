@@ -1,6 +1,6 @@
 # Hirst painting
 import colorgram
-
+color_list = []
 
 colors = colorgram.extract("image.jpg", 30)
 
